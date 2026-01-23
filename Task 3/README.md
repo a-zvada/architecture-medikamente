@@ -1,0 +1,1 @@
+## Задание 3. Оценка Data Encryption at Rest and In Transit
