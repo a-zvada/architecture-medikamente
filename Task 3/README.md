@@ -7,7 +7,7 @@ SQL Server TDE 
 Windows FCI + DAC + BitLocker  
 Exchange Transport Rules   
 Keycloak |
-| Персональные данные (PII) | Высокий | at rest, in transit | 152-ФЗ, утечки через почту и носители | Шифрование + RBAC + ABAC | TLS 1.3 + Exchange opportunistic TLS / forced TLS | 1С:Медицина (RLS + теги)  
+| Персональные данные (PII) | Высокий | at rest, in transit | 152-ФЗ, утечки через почту и носители | Шифрование + RBAC + ABAC + MFA | TLS 1.3 + Exchange opportunistic TLS / forced TLS | 1С:Медицина (RLS + теги)  
 SQL Server TDE   
 Windows FCI + DAC + BitLocker  
 Exchange Transport Rules  |
